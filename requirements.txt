@@ -6,3 +6,4 @@ tqdm==4.64.1
 Pillow==9.2.0
 h5py==3.7.0
 higher==0.2.1
+alive_progress
