@@ -31,11 +31,10 @@
 ## Data Preparation
 
 #### Download WIDER FACE Dataset
-You can download images and annotations from website (http://shuoyang1213.me/WIDERFACE/index.html), and unzip files to data/widerface/.
+You can download images and annotations from [website](http://shuoyang1213.me/WIDERFACE/index.html), and unzip files to data/widerface/.
 
 <details>
   <summary>[Expected directory structure of WIDERFACE (click to expand)]</summary>
-
 ```
 ./data/widerface
 └───train
@@ -64,8 +63,10 @@ You can download images and annotations from website (http://shuoyang1213.me/WID
 </details>
 
 #### Download WIDER FACE labels
-You need download labels file from RetinaFace (https://github.com/deepinsight/insightface/tree/master/detection/retinaface)
+You need download labels file from [RetinaFace](https://github.com/deepinsight/insightface/tree/master/detection/retinaface)
 Organise the dataset directory as follows:
+<details>
+  <summary>[Expected directory structure of WIDERFACE (click to expand)]</summary>
 ```
 ./data/widerface
 └───train
