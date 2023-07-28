@@ -1,0 +1,8 @@
+scipy==1.9.1
+numpy==1.23.3
+matplotlib==3.5.3
+opencv_python==4.6.0.66
+tqdm==4.64.1
+Pillow==9.2.0
+h5py==3.7.0
+higher==0.2.1
