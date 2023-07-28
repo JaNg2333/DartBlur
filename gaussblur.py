@@ -22,8 +22,8 @@ for mode in modes:
 
     print(mode)
 
-    image_root = './data/widerface/WIDER_'+mode+'/images/'
-    mosaic_root = './data/widerface/WIDER_'+mode+'/images_G2/'
+    image_root = './data/widerface/'+mode+'/images/'
+    mosaic_root = './data/widerface/'+mode+'/images_G2_M80/'
 
     with open('./data/widerface/wider_face_split/wider_face_'+mode+'_bbx_gt.txt','r') as f:
         lines = f.readlines()
