@@ -25,7 +25,7 @@
 
 
 ## Overview
-<img src="./img/dartblur_cvpr23_github.png" width="100%" alt="overview" align=center />
+<img src="./img/dartblur_cvpr23_gitHub.png" width="100%" alt="overview" align=center />
 
 
 ## Data Preparation
