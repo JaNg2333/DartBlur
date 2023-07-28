@@ -21,6 +21,7 @@
 - [Training](#training)
   - [Dependency Installation](#dependency-installation)
   - [Start Training](#start-training)
+- [Reference](#reference)
 - [Citation](#citation)
 
 
@@ -97,6 +98,8 @@ Organise the dataset directory as follows:
 #### start training
     python train.py
     
+## Reference
+    https://github.com/bubbliiiing/retinaface-pytorch
 
 ## Citation
 
