@@ -87,8 +87,8 @@ modes = ['val','train']
 
 for mode in modes:
     print(mode)
-    image_root = './data/widerface/WIDER_' + mode + '/images_G2/'
-    mosaic_root = './data/widerface/WIDER_' + mode + '/images_dartblur/'
+    image_root = './data/widerface/' + mode + '/images_G2_M80/'
+    mosaic_root = './data/widerface/' + mode + '/images_dartblur/'
     # Unet
     model_path = './model_data/dartblur.pt'
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
