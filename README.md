@@ -35,6 +35,7 @@ You can download images and annotations from [website](http://shuoyang1213.me/WI
 
 <details>
   <summary>[Expected directory structure of WIDERFACE (click to expand)]</summary>
+
 ```
 ./data/widerface
 └───train
@@ -67,6 +68,7 @@ You need download labels file from [RetinaFace](https://github.com/deepinsight/i
 Organise the dataset directory as follows:
 <details>
   <summary>[Expected directory structure of WIDERFACE (click to expand)]</summary>
+  
 ```
 ./data/widerface
 └───train
